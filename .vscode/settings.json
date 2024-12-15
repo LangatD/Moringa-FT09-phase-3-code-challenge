@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "magazine.db",
+            "database": "${workspaceFolder:Moringa-FT09-phase-3-code-challenge}/database/magazine.db"
+        }
+    ]
+}
